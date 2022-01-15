@@ -1,0 +1,7 @@
+" >> LISEZMOI.md 
+git init 
+git add LISEZMOI.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https:/ /github.com/Shalomdxpe/-vous-d-une-pomme-de-terre-sympathique.git
+ git push -u origin main
